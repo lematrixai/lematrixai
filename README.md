@@ -1,21 +1,25 @@
-<h1>Hi, I'm Erick Lema 👋 </h1>
+### Hi there, I am Erick Lema [lemajr] 👋
 
-<p>
-I am a Data Scientist and Software Engineer with expertise in building scalable solutions that drive data-driven decision-making. My work spans various domains, including web development, machine learning, and data visualization. Currently, I am focusing on cloud-based deployments and the integration of AI in software applications.
-</p>
+I am a Data Scientist and software engineer from Tanazania. I love working with data and firmly believe in AI's power to enhance people's lives. 
 
-📫 How to reach me: **erickbale360@gmail.com**
+So... I want to share my passion with others and guide them into this vast field through writing and teaching. 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/ericktek_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ericktek_" height="30" width="40" /></a>
-  &nbsp;
-  <a href="https://instagram.com/ericktek_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ericktek_" height="30" width="40" /></a>
-  &nbsp;
-  <a href="https://www.youtube.com/c/erickek" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="erickek" height="30" width="40" /></a>
-  &nbsp;
-  <a href="https://linkedin.com/in/ericktek" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
-</p>
+## **My Portfolio** 📊
+
+[Go check my Portfolio](https://github.com/lemajr) ✨👨🏻‍💻
+
+
+## **Connect with me** 🙋🏻‍♂️
+
+| Media                | Brief Description                                              |
+|----------------------|------------------------------------------------------|
+| [Instagram](https://instagram.com/ericktek_) 💌     | I share cheat sheets and technology updates.                      |
+| [Youtube](https://www.youtube.com/c/erickek)  💻      | Explore my YouTube channel for insightful content and tutorials. |
+| [LinkedIn](https://linkedin.com/in/ericktek)  💼       | I post data cheat sheets on machine learning, Python, SQL, and JavaScript.|
+| [X](https://twitter.com/ericktek) 🐦        | Follow me for data cheat sheets and updates on ML, Python, SQL, and JavaScript.|
+| [Threads ](https://www.threads.net/@ericktek) 🧵        | Connect with me for data cheat sheets and tech insights in ML, Python, SQL, and JavaScript.|
+
+## Main Repositories & Projects:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -31,5 +35,10 @@ I am a Data Scientist and Software Engineer with expertise in building scalable 
   &nbsp;
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 
-
 </p>
+
+
+
+![Profile views](https://komarev.com/ghpvc/?username=rfeers&label=Profile%20views&color=blue&style=flat-square)
+
+
