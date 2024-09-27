@@ -2,7 +2,7 @@
 
 I am a Data Scientist and software engineer from Tanazania. I love working with data and firmly believe in AI's power to enhance people's lives. 
 
-So... I want to share my passion with others and guide them into this vast field through writing and teaching. 
+So... I want to share my passion for coding and provide valuable educational resources to help others succeed in the tech field.
 
 ## **My Portfolio** 📊
 
