@@ -1,7 +1,7 @@
 <h1>Hi, I'm Erick Lema 👋 </h1>
 
 <p>
-I am a seasoned Data Scientist and Software Engineer with expertise in building scalable solutions that drive data-driven decision-making. My work spans various domains, including web development, machine learning, and data visualization. Currently, I am focusing on cloud-based deployments and the integration of AI in software applications.
+I am a Data Scientist and Software Engineer with expertise in building scalable solutions that drive data-driven decision-making. My work spans various domains, including web development, machine learning, and data visualization. Currently, I am focusing on cloud-based deployments and the integration of AI in software applications.
 </p>
 
 📫 How to reach me: **erickbale360@gmail.com**
