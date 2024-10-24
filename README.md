@@ -6,7 +6,7 @@ So... I want to share my passion for coding and provide valuable educational res
 
 ## **My Portfolio** 📊
 
-[Go check my Portfolio](https://github.com/lemajr) ✨👨🏻‍💻
+[Go check my Portfolio](https://ericktek.vercel.app/) ✨👨🏻‍💻
 
 
 ## **Connect with me** 🙋🏻‍♂️
