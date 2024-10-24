@@ -13,11 +13,11 @@ So... I want to share my passion for coding and provide valuable educational res
 
 | Media                | Brief Description                                              |
 |----------------------|------------------------------------------------------|
-| [Instagram](https://instagram.com/l.e.m.ajr) 💌     | I share cheat sheets and technology updates.                      |
-| [Youtube](https://www.youtube.com/c/stattechtz)  💻      | Explore my YouTube channel for insightful content and tutorials. |
+| [Instagram](https://instagram.com/l.e.m.a.jr) 💌     | I share cheat sheets and technology updates.                      |
+| [Youtube](https://www.youtube.com/@stattechtz)  💻      | Explore my YouTube channel for insightful content and tutorials. |
 | [LinkedIn](https://linkedin.com/in/ericklema)  💼       | I post data cheat sheets on machine learning, Python, SQL, and JavaScript.|
-| [X](https://twitter.com/ericktek) 🐦        | Follow me for data cheat sheets and updates on ML, Python, SQL, and JavaScript.|
-| [Threads ](https://www.threads.net/@l.e.m.ajr) 🧵        | Connect with me for data cheat sheets and tech insights in ML, Python, SQL, and JavaScript.|
+| [X](https://twitter.com/l.e.m.a.jr) 🐦        | Follow me for data cheat sheets and updates on ML, Python, SQL, and JavaScript.|
+| [Threads ](https://www.threads.net/@l.e.m.a.jr) 🧵        | Connect with me for data cheat sheets and tech insights in ML, Python, SQL, and JavaScript.|
 
 ## Main Repositories & Projects:
 
