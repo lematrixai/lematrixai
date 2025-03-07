@@ -1,4 +1,4 @@
-### Hi there, I am Erick Lema [lemajr] 👋
+### Hi there, I am Erick Lema [lematrixai] 👋
 
 I am a Data Scientist and software engineer from Tanazania. I love working with data and firmly believe in AI's power to enhance people's lives. 
 
