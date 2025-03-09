@@ -6,15 +6,15 @@ So... I want to share my passion for coding and provide valuable educational res
 
 ## **My Portfolio** 📊
 
-[Go check my Portfolio](https://ericktek.vercel.app/) ✨👨🏻‍💻
+[Go check my Portfolio](https://lema-portfolio.vercel.app/) ✨👨🏻‍💻
 
 
 ## **Connect with me** 🙋🏻‍♂️
 
 | Media                | Brief Description                                              |
 |----------------------|------------------------------------------------------|
-| [Instagram](https://instagram.com/l.e.m.a.jr) 💌     | I share cheat sheets and technology updates.                      |
-| [X](https://twitter.com/l.e.m.a.jr)         | Follow me for data cheat sheets and updates on ML, Python, SQL, and JavaScript.|
+| [Instagram](https://instagram.com/lematrixai) 💌     | I share cheat sheets and technology updates.                      |
+| [Tiktok](https://twitter.com/@lematrixai)         | Follow me for data cheat sheets and updates on ML, Python, SQL, and JavaScript.|
 
 ## Main Repositories & Projects:
 
