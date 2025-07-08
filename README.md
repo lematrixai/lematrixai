@@ -1,20 +1,12 @@
 ### Hi there, I am Erick Lema [lematrixai] 👋
 
-I am a Data Scientist and software engineer from Tanazania. I love working with data and firmly believe in AI's power to enhance people's lives. 
+I’m a software developer at Senjaropy, specializing in mobile and web app development. I’m passionate about coding, data science, and using AI to create impactful solutions.
 
-So... I want to share my passion for coding and provide valuable educational resources to help others succeed in the tech field.
+I also enjoy sharing tech knowledge and helping others grow through educational resources.
 
 ## **My Portfolio** 📊
 
 [Go check my Portfolio](https://lema-portfolio.vercel.app/) ✨👨🏻‍💻
-
-
-## **Connect with me** 🙋🏻‍♂️
-
-| Media                | Brief Description                                              |
-|----------------------|------------------------------------------------------|
-| [Instagram](https://instagram.com/lematrixai) 💌     | I share cheat sheets and technology updates.                      |
-| [Tiktok](https://twitter.com/@lematrixai)         | Follow me for data cheat sheets and updates on ML, Python, SQL, and JavaScript.|
 
 ## Main Repositories & Projects:
 
