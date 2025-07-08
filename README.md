@@ -1,6 +1,6 @@
 ### Hi there, I am Erick Lema [lematrixai] 👋
 
-I’m a software developer at Senjaropy, specializing in mobile and web app development. I’m passionate about coding, data science, and using AI to create impactful solutions.
+I’m a software developer at Senjaropay, specializing in mobile and web app development. I’m passionate about coding, data science, and using AI to create impactful solutions.
 
 I also enjoy sharing tech knowledge and helping others grow through educational resources.
 
