@@ -1,14 +1,4 @@
-### Hi there, I am Erick Lema [lematrixai] 👋
 
-I’m a software developer at Senjaropay, specializing in mobile and web app development. I’m passionate about coding, data science, and using AI to create impactful solutions.
-
-I also enjoy sharing tech knowledge and helping others grow through educational resources.
-
-## **My Portfolio** 📊
-
-[Go check my Portfolio](https://lema-portfolio.vercel.app/) ✨👨🏻‍💻
-
-## Main Repositories & Projects:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
